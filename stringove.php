@@ -68,6 +68,7 @@ $p3 = '/[0-9]/';
 
 
 $res = preg_match_all($p1, $str, $matches);
+?>
 
 
 
